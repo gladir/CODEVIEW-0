@@ -1,5 +1,5 @@
 # CODEVIEW-0
-Clone CodeView du DOS écrit en Pascal
+Clone CodeView du DOS écrit en Pascal (Turbo Pascal ou Free Pascal)
 
 ![image](https://user-images.githubusercontent.com/11842176/194549450-06570741-a7d0-4431-8444-2746e49ca888.png)
 
